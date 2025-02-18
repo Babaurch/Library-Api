@@ -33,7 +33,8 @@ npm install
 ### 3️⃣ Set Up Environment Variables
 Create a .env file in the root folder and add your MongoDB connection string:
 
-MONGO_URI=mongodb://localhost:27017/library
+MONGO_URI=mongodb://localhost:27017/library 
+
 PORT=3000
 
 ---
